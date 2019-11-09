@@ -1,0 +1,5 @@
+com/br/home/models/dto/WorkRealizedDto.class
+com/br/home/initialize/RegistryWorkApplication.class
+com/br/home/controller/MainController.class
+com/br/home/models/dto/ClientDto.class
+com/br/home/models/dto/AddressDto.class
